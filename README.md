@@ -16,6 +16,7 @@ Android SDK
 Java
 XML
 
-**DEMO**
+<h2>**DEMO**</h2>
+
 ![WhatsApp Image 2024-07-02 at 13 51 30_08936fba](https://github.com/HarshTekwani21/Truth-Or-Dare-Android-Game/assets/161741179/f663865a-86e9-42fd-9b4c-4b76adfc9ba4)
 ![WhatsApp Image 2024-07-02 at 13 51 27_867a4a83](https://github.com/HarshTekwani21/Truth-Or-Dare-Android-Game/assets/161741179/489cfd2d-0455-41eb-ac0d-3001d19288e7)
